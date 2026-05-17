@@ -1,16 +1,23 @@
-## Hi there 👋
+# xuker0
 
-<!--
-**xuker0/xuker0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Pentesting & Red Team  
+🏆 HackTheBox 
+🐧 Linux | Networks | Offensive Security
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+
+---
+
+## 📂 Repos
+
+| | |
+|---|---|
+| [htb-writeups](https://github.com/xuker0/htb-writeups) | Retired HTB machines |
+| [cheatsheets](https://github.com/xuker0/cheatsheets) | Personal references |
